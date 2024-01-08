@@ -1,0 +1,5 @@
+color: yellow
+dataset_url: path_to_dataset.csv
+cols_to_plot:
+    - column_x
+    - column_y
